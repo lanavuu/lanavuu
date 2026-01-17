@@ -1,4 +1,4 @@
-# chào bạn, tôi tên là Lana Vu 👋
+# Chào bạn, tôi tên là Lana Vu 👋
 
 __Computer Science Student__ || __Second Year at CSUF__ || __Game Enthusiast__ || 
 
