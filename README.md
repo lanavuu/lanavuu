@@ -37,7 +37,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/lanavuu/lanavuu/snake-output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/lanavuu/lanavuu/main/dist/snake.svg" alt="Snake animation" />
 
 ###
 
