@@ -17,7 +17,7 @@
 
 ###
 
-<h3 align="left">🛠 Languages</h3>
+<h3 align="left">💻 Tech Stack </h3>
 
 ###
 
@@ -33,9 +33,13 @@
 
 ###
 
-![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-snake-dark.svg)
+<div align="center">
 
+![snake gif](https://github.com/lanavuu/lanavuu/blob/output/github-snake-dark.svg)
+ </div>
 ###
+
+<h3 align="left">🛜 Connect with Me </h3>
 
 <div align="center">
   <a href="mailto:lananghivu@gmail.com" target="_blank">
