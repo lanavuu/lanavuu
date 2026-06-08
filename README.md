@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lanavuu&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lanavuu&theme=aura&hide_border=true" width="50%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lanavuu&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+
 </div>
 
 ###
@@ -41,11 +41,11 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white&style=for-the-badge" height="30" alt="ubuntu logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?logo=adobeaftereffects&logoColor=black&style=for-the-badge" height="30" alt="aftereffects logo"  />
-  <img width="12" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="30" alt="github logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="30" alt="git logo"  />
+  <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?logo=adobeaftereffects&logoColor=black&style=for-the-badge" height="30" alt="aftereffects logo"  />
+  <img width="12" />
 </div>
 
 ###
