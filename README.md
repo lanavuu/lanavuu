@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">Tôi tên là Lana Vu ₊˚⊹♡<br><br>- 👩‍💻 I'm currently working on Job Simulator<br>- 📚 Third-year Computer Science student<br>- ⚡ Aside from coding, you'll catch me lifting weights 💪, snowboarding 🏂, and  playing mini golf ⛳</p>
+<p align="left">Tôi tên là Lana Vu ₊˚⊹♡<br><br>- 👩‍💻 I'm currently working on Track It!<br>- 📚 Third-year Computer Science student<br>- ⚡ Aside from coding, you'll catch me lifting weights 💪, snowboarding 🏂, and  playing mini golf ⛳</p>
 
 ###
 
